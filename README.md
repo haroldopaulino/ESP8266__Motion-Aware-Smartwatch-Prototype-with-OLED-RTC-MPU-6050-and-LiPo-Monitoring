@@ -223,18 +223,6 @@ This file contains:
 
 ---
 
-## Suggested GitHub Repository Title
-
-**ESP8266 Motion-Aware Smartwatch Prototype with OLED, RTC, MPU-6050, and LiPo Monitoring**
-
----
-
-## Suggested GitHub Repository Description
-
-ESP8266 smartwatch firmware prototype with OLED UI, RTC timekeeping, MPU-6050 motion sensing, LiPo battery monitoring, button navigation, buzzer feedback, and motion-aware display behavior.
-
----
-
 ## Future Improvements
 
 Possible next improvements include:
